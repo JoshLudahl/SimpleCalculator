@@ -91,44 +91,6 @@ Commented out the screen size detection so the calculator doesnt look weird on s
   width: 75%;
 }
 
-@media (max-width: 30em) {
-  .bit-1 {
-    width: 100%;
-  }
-  .bit-2 {
-    width: 100%;
-  }
-  .bit-3 {
-    width: 100%;
-  }
-  .bit-4 {
-    width: 100%;
-  }
-  .bit-5 {
-    width: 100%;
-  }
-  .bit-6 {
-    width: 100%;
-  }
-  .bit-7 {
-    width: 100%;
-  }
-  .bit-8 {
-    width: 100%;
-  }
-  .bit-9 {
-    width: 100%;
-  }
-  .bit-10 {
-    width: 100%;
-  }
-  .bit-11 {
-    width: 100%;
-  }
-  .bit-12 {
-    width: 100%;
-  }
-}
 /*
 @media (min-width: 30em) and (max-width: 50em) {
   .bit-4,
